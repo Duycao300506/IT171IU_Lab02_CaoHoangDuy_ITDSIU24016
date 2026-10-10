@@ -8,7 +8,7 @@
 
 ### Files Included in this Submission
 * `Folder Figures`: Contain all the images created in the exercises.
-* `IT171IU_Lab02_CaoHoangDuy_ITDSIU24016.ipynb`: The completed Jupyter Notebook containing all code, execution outputs, and brief answers for Lab 2 exercises (Checkpoints, Exercises 1-7).
+* `IT171IU_Lab02_CaoHoangDuy_ITDSIU24016.ipynb`: The completed Jupyter Notebook containing all code, execution outputs, and brief answers for Lab 2 exercises (Checkpoints, Exercises 1-9).
 * `IT171IU_Lab02_Report_2.pdf`: A detailed report formatted with "Key Numbers" and "Interpretations" for all checkpoints and exercises, including relevant plots.
 * `README.md`: This document.
 
